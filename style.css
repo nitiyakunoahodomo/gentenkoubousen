@@ -199,7 +199,6 @@ i {
  }
 
  .main-wrapper {
-   width: 1040px;
    height: 700px;
    margin-top: 50px;
    text-align: center;
@@ -211,7 +210,6 @@ i {
  .textarea {
    font-size: 20px;
    width: 200px:;
-   flex-wrap: wrap;
    display: inline-block;
    padding: 0 40px 60px 0 ;
    justify-content: center;
